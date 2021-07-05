@@ -1,0 +1,8 @@
+.body {
+  font-family: "Lato", sans-serif;
+}
+
+.header {
+  background-image: url(../img/bg-top.jpg);
+  background-repeat: no-repeat;
+}
